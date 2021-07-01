@@ -1,2 +1,2 @@
 def logout(request):
-  return "Chao"
+  return "Bye Bye"
